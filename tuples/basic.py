@@ -1,0 +1,7 @@
+tuple=(66,76,8,7,88)
+print(tuple.count(76))
+singleTuple=(1,)
+singleTuple1=(1)
+print(type(singleTuple))
+print(type(singleTuple1))
+print(max(tuple))

@@ -1,0 +1,7 @@
+#You are given a list of programming languages:
+# ["Python", "Java", "C++", "Python", "Java", "C"]
+# Convert it into a set and print how many unique languages Divya knows.
+list=["Python", "Java", "C++", "Python", "Java", "C"]
+sets=set(list)
+print(sets)
+print("shubhi knows these languages:",len(sets))
