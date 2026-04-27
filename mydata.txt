@@ -1,0 +1,4 @@
+hello
+this my txt file , where im learing file handling 
+let's start! 
+live ur life
